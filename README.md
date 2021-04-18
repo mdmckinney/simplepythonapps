@@ -3,13 +3,16 @@
 A collection of simple applications I wrote for Python. 
 
 SIMPLE TERMINAL GAMES
+
 guessinggame.py - Guess the number game
 rock_paper_scissors.py - Rock/Paper/Scissors
 
 SIMPLE TERMINAL PROGRAMS
+
 lottery.py - Lottery - written to show the futility of playing lottery. 
 
 SIMPLE TERMINAL MATH PROGRAMS
+
 additionpractice.py - Addition practice.
 subtractionpractice.py - Subtraction practice.
 subtractionpractice_withnegatives.py - Subtraction practice w/ negative answers.
