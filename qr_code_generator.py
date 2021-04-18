@@ -45,7 +45,7 @@ while True:
 			"\n(L (7%), M (15%), Q (25%), H (30%)): ")
 		qr_error = qr_error.lower()
 		if qr_error != 'l' and qr_error != 'm' and qr_error != 'q' and qr_error != 'h':
-			print("Not a volid error level.")
+			print("Not a valid error level.")
 			qr_error = ''
 			continue 	
 
