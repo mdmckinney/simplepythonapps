@@ -8,6 +8,7 @@ Simple Terminal Games
 
 Simple Terminal Programs
 - lottery.py - Lottery (created to demonstrate the futility of playing lottery)
+- qr_code_generator.py - Convert any string into QR code (You will need pyqrcode and pypng modules to run this program)
 
 Simple Terminal Math Programs
 - additionpractice.py - Addition practice
