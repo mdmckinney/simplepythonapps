@@ -1,6 +1,6 @@
 # Simple Python Applications
 
-A collection of simple applications I wrote for Python. 
+A collection of simple applications I wrote in Python. 
 
 Simple Terminal Games
 - guessinggame.py - Guess the Number game
